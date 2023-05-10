@@ -1,0 +1,9 @@
+node_modules
+example/pdf.pdf
+example/video.mp4
+example/word.docx
+example/ppt.pptx
+example/excel.xlsx
+example/pic.png
+# 项目排除路径
+/dist/
